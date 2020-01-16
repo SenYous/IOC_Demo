@@ -1,0 +1,10 @@
+E:\文档\陈嘉鑫\IOC&Autofac\IOC\IOC\bin\Debug\IOC.exe.config
+E:\文档\陈嘉鑫\IOC&Autofac\IOC\IOC\bin\Debug\IOC.exe
+E:\文档\陈嘉鑫\IOC&Autofac\IOC\IOC\bin\Debug\IOC.pdb
+E:\文档\陈嘉鑫\IOC&Autofac\IOC\IOC\bin\Debug\Autofac.dll
+E:\文档\陈嘉鑫\IOC&Autofac\IOC\IOC\bin\Debug\Autofac.xml
+E:\文档\陈嘉鑫\IOC&Autofac\IOC\IOC\obj\Debug\IOC.csprojAssemblyReference.cache
+E:\文档\陈嘉鑫\IOC&Autofac\IOC\IOC\obj\Debug\IOC.csproj.CoreCompileInputs.cache
+E:\文档\陈嘉鑫\IOC&Autofac\IOC\IOC\obj\Debug\IOC.csproj.CopyComplete
+E:\文档\陈嘉鑫\IOC&Autofac\IOC\IOC\obj\Debug\IOC.exe
+E:\文档\陈嘉鑫\IOC&Autofac\IOC\IOC\obj\Debug\IOC.pdb
